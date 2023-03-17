@@ -1,0 +1,29 @@
+table {
+    border: 1px solid black;
+}
+
+input {
+    display: block;
+}
+
+table {
+    border: none;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.headings>td {
+    border: none;
+    text-align: center;
+    font-weight:700
+}
+
+
+form {
+    position:fixed;
+    top: 0;
+    left: 66vw;
+    display: none;
+}
